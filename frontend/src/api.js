@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const Base_url = 'http://localhost:8000/api/'
+export const Base_url = 'http://43.205.235.130/api/'
 
 // Define the base URL for your Django backend
 const API_URL = process.env.REACT_APP_API_URL || Base_url; // Update this URL if necessary
